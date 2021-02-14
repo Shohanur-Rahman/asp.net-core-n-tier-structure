@@ -1,0 +1,16 @@
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\ServiceManager.deps.json
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\ServiceManager.dll
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\ServiceManager.pdb
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\BLL.dll
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\Common.dll
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\Models.dll
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\Common.pdb
+F:\asp\Core\second\ServiceManager\bin\Debug\netcoreapp3.1\Models.pdb
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.csprojAssemblyReference.cache
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.AssemblyInfoInputs.cache
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.AssemblyInfo.cs
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.csproj.CoreCompileInputs.cache
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.csproj.CopyComplete
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.dll
+F:\asp\Core\second\ServiceManager\obj\Debug\netcoreapp3.1\ServiceManager.pdb

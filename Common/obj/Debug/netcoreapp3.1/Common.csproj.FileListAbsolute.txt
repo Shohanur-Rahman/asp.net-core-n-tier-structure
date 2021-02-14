@@ -1,0 +1,12 @@
+F:\asp\Core\second\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\asp\Core\second\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\asp\Core\second\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\asp\Core\second\Common\bin\Debug\netcoreapp3.1\Models.dll
+F:\asp\Core\second\Common\bin\Debug\netcoreapp3.1\Models.pdb
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\asp\Core\second\Common\obj\Debug\netcoreapp3.1\Common.pdb

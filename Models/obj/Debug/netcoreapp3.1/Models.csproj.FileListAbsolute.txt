@@ -1,0 +1,8 @@
+F:\asp\Core\second\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+F:\asp\Core\second\Models\bin\Debug\netcoreapp3.1\Models.dll
+F:\asp\Core\second\Models\bin\Debug\netcoreapp3.1\Models.pdb
+F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.dll
+F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.pdb
