@@ -3,8 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WPIApp.IServiceManager;
-using WPIApp.ServiceManager;
+using WPIApp.IServices;
+using WPIApp.Services;
 
 namespace WPIApp.ServiceCollections
 {
@@ -13,6 +13,7 @@ namespace WPIApp.ServiceCollections
         public static IServiceCollection AddRepoServices(this IServiceCollection services)
         {
             services.AddTransient<IUserServices, UserServices>();
+            services.AddTransient<ISecurityService, SecurityService>();
             return services;
         }
     }

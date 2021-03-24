@@ -28,6 +28,8 @@ namespace Common.Constants
 
             public const string Email_Notification = "Data sent to the email.";
             public const string LoginSuccessfull = "Log in successfully.";
+            public const string InvalidPassword = "Invalid Password";
+            public const string AccountSuspend = "Account Suspend.";
 
         }
     }

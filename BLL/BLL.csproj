@@ -5,16 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Mapper\Mapper.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Mapper\" />
   </ItemGroup>
 
 </Project>

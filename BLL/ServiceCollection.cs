@@ -12,6 +12,7 @@ namespace BLL.ServiceCollection
         public static IServiceCollection AddBLLManager(this IServiceCollection services)
         {
             services.AddTransient<IUserBLLManager, UserBLLManager>();
+            services.AddTransient<ISecurityBLLManager, SecurityBLLManager>();
             return services;
         }
     }

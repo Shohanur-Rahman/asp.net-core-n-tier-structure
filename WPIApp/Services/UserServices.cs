@@ -6,9 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WPIApp.IServiceManager;
+using WPIApp.IServices;
 
-namespace WPIApp.ServiceManager
+namespace WPIApp.Services
 {
     public class UserServices : IUserServices
     {

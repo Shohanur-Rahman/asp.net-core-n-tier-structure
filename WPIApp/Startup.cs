@@ -18,6 +18,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using BLL.ServiceCollection;
 using WPIApp.ServiceCollections;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Cors;
 
 namespace WPIApp
 {
@@ -37,7 +41,32 @@ namespace WPIApp
                 Configuration.GetConnectionString("DefaultConnection")
                 ));
 
-            
+            services.AddSingleton<IConfiguration>(Configuration);
+
+
+            //JWT Setup
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
+            .AddJwtBearer(options =>
+            {
+                options.RequireHttpsMetadata = false;
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = Configuration["Jwt:Issuer"],
+                    ValidAudience = Configuration["Jwt:Issuer"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["JWT"]))
+                };
+            });
+
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -46,6 +75,21 @@ namespace WPIApp
 
             services.AddMvc();
             services.AddRepoServices().AddBLLManager();
+
+
+            services.AddCors();
+            // CORS Setup
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.SetIsOriginAllowed(_ => true)
+                      .AllowAnyMethod()
+                      .AllowAnyHeader()
+                      .AllowCredentials()
+                .Build());
+            });
+
+            EnableCorsAttribute cors = new EnableCorsAttribute();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
