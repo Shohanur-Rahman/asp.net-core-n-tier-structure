@@ -10,3 +10,15 @@ F:\asp\Core\second\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreComp
 F:\asp\Core\second\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
 F:\asp\Core\second\Repository\obj\Debug\netcoreapp3.1\Repository.dll
 F:\asp\Core\second\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+F:\dot net\asp.net-core-n-tier-structure\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+F:\dot net\asp.net-core-n-tier-structure\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+F:\dot net\asp.net-core-n-tier-structure\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\dot net\asp.net-core-n-tier-structure\Repository\bin\Debug\netcoreapp3.1\Models.dll
+F:\dot net\asp.net-core-n-tier-structure\Repository\bin\Debug\netcoreapp3.1\Models.pdb
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+F:\dot net\asp.net-core-n-tier-structure\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

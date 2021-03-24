@@ -9,9 +9,9 @@ namespace BLL.ServiceCollection
 {
     public static class ServiceCollectionExtension
     {
-        public static IServiceCollection AddBlogBLLManager(this IServiceCollection services)
+        public static IServiceCollection AddBLLManager(this IServiceCollection services)
         {
-            services.AddTransient<IBlogBLLManager, BlogBLLManager>();
+            services.AddTransient<IUserBLLManager, UserBLLManager>();
             return services;
         }
     }

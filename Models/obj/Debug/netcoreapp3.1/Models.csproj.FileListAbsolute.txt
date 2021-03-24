@@ -6,3 +6,11 @@ F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
 F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
 F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.dll
 F:\asp\Core\second\Models\obj\Debug\netcoreapp3.1\Models.pdb
+F:\dot net\asp.net-core-n-tier-structure\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+F:\dot net\asp.net-core-n-tier-structure\Models\bin\Debug\netcoreapp3.1\Models.dll
+F:\dot net\asp.net-core-n-tier-structure\Models\bin\Debug\netcoreapp3.1\Models.pdb
+F:\dot net\asp.net-core-n-tier-structure\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+F:\dot net\asp.net-core-n-tier-structure\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\Models\obj\Debug\netcoreapp3.1\Models.dll
+F:\dot net\asp.net-core-n-tier-structure\Models\obj\Debug\netcoreapp3.1\Models.pdb

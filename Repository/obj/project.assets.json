@@ -5769,11 +5769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\asp\\Core\\second\\Repository\\Repository.csproj",
+      "projectUniqueName": "F:\\dot net\\asp.net-core-n-tier-structure\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "F:\\asp\\Core\\second\\Repository\\Repository.csproj",
+      "projectPath": "F:\\dot net\\asp.net-core-n-tier-structure\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Shohanur\\.nuget\\packages\\",
-      "outputPath": "F:\\asp\\Core\\second\\Repository\\obj\\",
+      "outputPath": "F:\\dot net\\asp.net-core-n-tier-structure\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shohanur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5790,8 +5790,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\asp\\Core\\second\\Models\\Models.csproj": {
-              "projectPath": "F:\\asp\\Core\\second\\Models\\Models.csproj"
+            "F:\\dot net\\asp.net-core-n-tier-structure\\Models\\Models.csproj": {
+              "projectPath": "F:\\dot net\\asp.net-core-n-tier-structure\\Models\\Models.csproj"
             }
           }
         }
@@ -5834,7 +5834,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BLL.ServiceCollection;
-using ServiceManager;
+using WPIApp.ServiceCollections;
 
 namespace WPIApp
 {
@@ -45,7 +45,7 @@ namespace WPIApp
             });
 
             services.AddMvc();
-            services.AddServiceManager().AddBlogBLLManager();
+            services.AddRepoServices().AddBLLManager();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

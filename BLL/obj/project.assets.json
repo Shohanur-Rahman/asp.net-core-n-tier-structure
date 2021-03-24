@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\asp\\Core\\second\\BLL\\BLL.csproj",
+      "projectUniqueName": "F:\\dot net\\asp.net-core-n-tier-structure\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "F:\\asp\\Core\\second\\BLL\\BLL.csproj",
+      "projectPath": "F:\\dot net\\asp.net-core-n-tier-structure\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Shohanur\\.nuget\\packages\\",
-      "outputPath": "F:\\asp\\Core\\second\\BLL\\obj\\",
+      "outputPath": "F:\\dot net\\asp.net-core-n-tier-structure\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shohanur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5765,11 +5765,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\asp\\Core\\second\\Common\\Common.csproj": {
-              "projectPath": "F:\\asp\\Core\\second\\Common\\Common.csproj"
+            "F:\\dot net\\asp.net-core-n-tier-structure\\Common\\Common.csproj": {
+              "projectPath": "F:\\dot net\\asp.net-core-n-tier-structure\\Common\\Common.csproj"
             },
-            "F:\\asp\\Core\\second\\Models\\Models.csproj": {
-              "projectPath": "F:\\asp\\Core\\second\\Models\\Models.csproj"
+            "F:\\dot net\\asp.net-core-n-tier-structure\\Models\\Models.csproj": {
+              "projectPath": "F:\\dot net\\asp.net-core-n-tier-structure\\Models\\Models.csproj"
             }
           }
         }
@@ -5798,7 +5798,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

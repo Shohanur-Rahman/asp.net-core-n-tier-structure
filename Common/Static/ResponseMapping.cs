@@ -11,9 +11,8 @@ namespace Common.Static
         {
             ResponseMessage responseMessage = new ResponseMessage();
             responseMessage.data = any;
-            responseMessage.statusCode = statusCode;
             responseMessage.message = messge;
-            responseMessage.isSuccess = true;
+            responseMessage.isSuccess = (statusCode == 1) ? true : false;
 
             return responseMessage;
         }

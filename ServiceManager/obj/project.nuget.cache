@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "azg+Mvk/6wVD1R9ICAX5Mgh752lFtayDWyM8wyf5mBGrp3iNi0c+/6IPFvunKCfmd9xCjkvu0HyLswrTLuqRFQ==",
+  "dgSpecHash": "TY9REbGwgtlzR0cfMCgorxSIb0L5mVpIatRF/MjyN6P8UwEzQ7kRvT3CXVFi89jN/CGp5qtrlGzvpnEFLIRQGA==",
   "success": true,
-  "projectFilePath": "F:\\asp\\Core\\second\\ServiceManager\\ServiceManager.csproj",
+  "projectFilePath": "F:\\dot net\\asp.net-core-n-tier-structure\\ServiceManager\\ServiceManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shohanur\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Shohanur\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

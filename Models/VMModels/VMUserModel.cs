@@ -3,10 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BLL.Interface
+namespace Models.VMModels
 {
-    public interface IBlogBLLManager
+    public class VMUserModel: User
     {
-        ResponseMessage GetCategories();
     }
 }

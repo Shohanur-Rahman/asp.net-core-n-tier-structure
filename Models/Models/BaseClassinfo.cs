@@ -6,9 +6,9 @@ namespace Models.Models
 {
     public class BaseClassinfo
     {
-        public string CreatedBy { get; set; }
+        public long? CreateId { get; set; }
         public Nullable<System.DateTime> CreatedDate { get; set; }
-        public string UpdatedBy { get; set; }
+        public long? UpdatedId { get; set; }
         public Nullable<System.DateTime> UpdatedDate { get; set; }
     }
 }

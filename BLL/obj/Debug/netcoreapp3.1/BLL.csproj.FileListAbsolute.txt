@@ -12,3 +12,17 @@ F:\asp\Core\second\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cach
 F:\asp\Core\second\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
 F:\asp\Core\second\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 F:\asp\Core\second\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\Common.dll
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\Models.dll
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\Common.pdb
+F:\dot net\asp.net-core-n-tier-structure\BLL\bin\Debug\netcoreapp3.1\Models.pdb
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\dot net\asp.net-core-n-tier-structure\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
